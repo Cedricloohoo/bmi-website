@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BMI Calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      padding: 40px;
+    }
+    .card {
+      max-width: 600px;
+      background: white;
+      padding: 25px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    h1 { color: #2c3e50; }
+    .step {
+      background: #eef2f5;
+      padding: 10px;
+      border-radius: 6px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="card">
+  <h1>BMI Calculator</h1>
+
+  <p><strong>Body Mass Index (BMI)</strong> is a measure used to determine whether a person has a healthy body weight based on height and weight.</p>
+
+  <h3>BMI Formula</h3>
+  <p><code>BMI = weight (kg) ÷ height² (m)</code></p>
+
+  <h3>How to Calculate BMI</h3>
+  <div class="step">1️⃣ Open WhatsApp</div>
+  <div class="step">2️⃣ Send a message like:</div>
+  <pre>
+Height: 175 cm
+Weight: 70 kg
+  </pre>
+  <div class="step">3️⃣ Receive your BMI instantly</div>
+
+  <h3>Why WhatsApp?</h3>
+  <p>This project uses automation to make BMI calculation faster and easier without filling forms.</p>
+
+  <p><small>⚠️ This tool is for educational purposes only.</small></p>
+</div>
+
+</body>
+</html>
