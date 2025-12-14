@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      padding: 40px;
+    }
+    .card {
+      max-width: 600px;
+      background: white;
+      padding: 25px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+<div class="card">
+  <h1>About Me</h1>
+
+  <p>My name is Abdulrahman. I am a student interested in technology, automation, and problem solving.</p>
+
+  <h3>Personal Skills</h3>
+  <ul>
+    <li>Teamwork</li>
+    <li>Problem solving</li>
+    <li>Time management</li>
+    <li>Creative thinking</li>
+  </ul>
+
+  <h3>Technical Skills</h3>
+  <ul>
+    <li>Basic web development (HTML & CSS)</li>
+    <li>Automation using n8n</li>
+    <li>Understanding of health metrics like BMI</li>
+  </ul>
+
+  <h3>Why This Project?</h3>
+  <p>I wanted to combine physical education with technology by creating an easier and more accessible way to calculate BMI.</p>
+
+</div>
+
+</body>
+</html>
